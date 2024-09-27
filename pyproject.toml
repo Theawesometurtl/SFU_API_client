@@ -1,5 +1,5 @@
 [project]
-name = "sfu-webscraper"
+name = "sfu-api"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -12,6 +12,4 @@ dependencies = [
 ]
 
 [tool.uv]
-dev-dependencies = [
-    "devtools>=0.12.2",
-]
+dev-dependencies = ["devtools>=0.12.2"]

@@ -239,7 +239,7 @@ wheels = [
 ]
 
 [[package]]
-name = "sfu-webscraper"
+name = "sfu-api"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
