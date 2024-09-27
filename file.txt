@@ -1,0 +1,964 @@
+101 Introduction to Insurance
+231 Tools for Data-Driven Decision Making
+301 Long-Term Actuarial Mathematics I
+321 Fundamentals of Short-Term Insurance
+336 Job Practicum I
+337 Job Practicum II
+436 Job Practicum III
+437 Job Practicum IV
+438 Job Practicum V
+830 Stochastic Processes for Insurance and Finance
+601 Canadian Legal System
+602 Legal Research and Writing
+611 Real Property I
+630 Topics in Legal Practice
+631 MA Examination
+920 Numerical Linear Algebra
+940 Mathematics of Data Science
+990 Selected Topics in Applied Mathematics
+995 PhD Oral Candidacy Exam
+100 Introductory Arabic I
+100 Ancient Peoples and Places
+101 Reconstructing the Human Past
+131 Human Origins
+200 Special Topics in Archaeology
+226 Shamans, Sacrifice and Psychedelics
+252 Ancient Egypt and Africa
+271 Interpreting the Past: An Introduction to Archaeological Theory
+272w Archaeology of the Old World
+282 Material Culture Analysis
+301 Ancient Visual Art
+323 Special Topics in Biological Anthropology II
+348 Archaeological Conservation
+374 Research Design in Archaeology
+377 Historical Archaeology
+378 Pacific Northwest North America
+383 Ancient and Forensic DNA
+436 Biological Anthropology Field Practicum
+479 Directed Readings
+480 Directed Laboratory/Library/Field Research
+498 Honours Reading
+499 Honours Thesis
+591 Directed Study in Heritage Resource Management
+871 Archaeological Theory
+872 Graduate Seminar I
+874 PhD Prospectus & Colloquium
+875 PhD Comprehensive Examination
+892 Directed Readings
+893 Directed Readings
+895 Special Topics
+896 Directed Laboratory/Library/Field Research
+898 MA Thesis
+899 PhD Thesis
+101 General Biology
+102 General Biology
+106 Biological Systems for Engineers
+171 Biological Sciences Undergraduate Seminar
+202 Genetics
+204 Ecology
+205 Principles of Physiology
+298 Introduction to Undergraduate Research in Biological Sciences
+300 Evolution
+303 Microbiology
+308 Environmental Toxicology: An Ecological Perspective
+316 Vertebrate Biology
+317 Insect Biology
+328 Fungal Biology and Ecology
+333 Developmental Biology
+341 Practicum I
+342 Practicum II
+357 Genetic Engineering
+360w Techniques in Ecology and Evolution
+366 Plant Physiology
+410 Behavioural Ecology
+425 Sensory Biology
+433 Environmental Microbiology
+441 Evolution of Health and Disease
+443 Practicum III
+444 Practicum IV
+446 Practicum V
+471 Special Topics in Cells, Molecules and Physiology
+474 Special Topics in Ecology, Evolution and Conservation
+475 Special Topics in Biology
+490 Research Design
+491 Research Technique
+492w Research Reporting
+497w Undergraduate Research: Writing Intensive
+498 Undergraduate Research I
+499 Undergraduate Research II
+633 Environmental Microbiology
+650 Environmental Risk Assessment
+651 Toxicity Tests I: Ecological Effects Based Tests
+655 Environmental Toxicology Seminar
+656 Master of Environmental Toxicology Project
+800 Skills for the Successful Scientist
+827 Seminar in Evolutionary, Behavioural, and Conservation Ecology
+831 Research Seminars in Biological Sciences
+832 Research Seminars in Biological Sciences
+833 Research Seminars in Biological Sciences
+849 Master of Pest Management Thesis
+854 Ecotoxicology
+855 Biochemical Toxicology
+859 Special Topics I
+869 Special Topics II
+880 Special Topics in Behavioural Ecology
+883 Special Topics in Environmental Toxicology
+888 Directed Readings in Biology
+889 Directed Readings in Biology
+890 Directed Readings in Biology
+892 PhD Graduate Candidacy Exam
+898 MSc Thesis
+899 PhD Thesis
+105 The Anatomy and Physiology of Human Survival
+110 Human Nutrition: Current Issues
+140 Contemporary Health Issues
+141 Theory of Exercise Program Design
+142 Introduction to Biomedical Physiology and Kinesiology
+143 Exercise: Health and Performance
+201 Biomechanics
+205 Introduction to Human Physiology
+207 Sensorimotor Control and Learning
+241 Sports Injuries - Prevention and Rehabilitation
+301 Biomechanics Laboratory
+303 Assessment of Movement and Function
+304w Inquiry and Measurement in Biomedical Physiology and Kinesiology
+305 Human Physiology I
+306 Human Physiology II
+310 Exercise/Work Physiology
+311 Applied Human Nutrition
+326 Functional Anatomy
+340 Active Health: Behavior and Promotion
+343 Active Health: Assessment and Programming
+351 Practicum I
+352 Practicum II
+375 Human Growth and Development
+408w Cellular Physiology Laboratory
+409 Wearable Technology and Human Physiology
+421 Selected Topics in Biomedical Physiology and Kinesiology II
+422 Selected Topics in Biomedical Physiology and Kinesiology III
+423 Selected Topics in Biomedical Physiology and Kinesiology IV
+432 Physiological Basis of Temperature Regulation
+448 Rehabilitation of Movement Control
+451 Practicum III
+451w Practicum III
+452 Practicum IV
+453 Practicum V
+457 Behavioural Neuroscience Undergraduate Honours Thesis Proposal
+459 Behavioural Neuroscience Undergraduate Honours Thesis
+491 Undergraduate Honours Thesis Proposal
+495 Undergraduate Honours Research Performance
+496 Directed Study Literature
+498 Directed Study Experiential
+499 Undergraduate Honours Thesis Reporting
+801 Seminar on Research in Biomedical Physiology and Kinesiology
+805 Directed Studies
+895 MSc Proposal
+896 PhD Comprehensive Examination
+897 PhD Seminar
+898 MSc Thesis
+899 PhD Thesis
+2xx Business 200 div
+200 Business Fundamentals
+201 Introduction to Business
+202 Foundations of Business
+203 Professional Development - Launch
+207 Managerial Economics
+217w Critical Thinking in Business
+225 Co-op Practicum I
+232 Business Statistics
+233 Introduction to Business Law and Ethics
+237 Introduction to Business Technology Management
+238 Introduction to Entrepreneurship and Innovation
+240 Introduction to Innovation
+251 Financial Accounting I
+254 Managerial Accounting I
+272 Behaviour in Organizations
+275 Business in a Sustainable Society
+3xx Business 300 div
+300 Professional Development - Planning
+303 Business, Society and Ethics
+307 Business Applications of Game Theory
+311 Introduction to Managerial Accounting and Financial Management
+312 Introduction to Finance
+314 Resourcing New Ventures
+315 Investments
+316 Derivative Securities
+318 Management of Equity and Fixed Income Investments
+320 Financial Accounting:  Assets
+321 Financial Accounting: Equities
+322 Intermediate Managerial Accounting
+325 Co-op Practicum II
+326 Co-op Practicum III
+327 Co-op Practicum IV
+330 Income Taxation for Individuals
+331 Corporate Taxation
+336 Data Analytics and Visualization
+338 Foundations of Innovation
+340 International Business Strategy
+341 Fundamentals of Marketing
+343 Introduction to Marketing
+345 Marketing Research
+346 Global Business Environment
+347 Consumer Behaviour
+360w Business Communication
+361 Project Management
+362 Business Process Analysis
+371 Critical Thinking Through Business Case Analysis
+373 Operations and Supply Chain Management
+374 Organization Theory
+381 Introduction to Human Resource Management
+393 Commercial Law
+401 Developing Organizational Opportunities
+410 Financial Institutions
+411 Fixed Income Security Analysis and Valuation
+413 Corporate Finance
+414 Real Estate Investments
+417 Equity Security Analysis
+418 International Financial Management
+419 Advanced Derivative Securities
+420 Advanced Accounting
+421 Accounting Theory
+424 Advanced Managerial Accounting
+425 Co-op Practicum V
+426 Auditing and Assurance: Concepts and Methods
+431 Business with East Asian Countries
+432 International Human Resource Management
+434 Foreign Market Entry
+435 Management of International Firms
+437 Decision Analysis in Business
+439 Analytics Project
+440 Simulation in Management Decision-making
+441 Web Analytics
+443 New Product Development and Design
+445 Customer Analytics
+447 Global Marketing Management
+448 Integrated Marketing Communications
+449 Ethical Issues in Marketing
+453 Sustainable Innovation
+455 Product & Brand Management
+462 Business Analytics
+464 Business Data Management
+466 Web-Enabled Business
+468 Managing Information Technology for Business Value
+471 Strategic Decision Making
+473 Advanced Operations Management
+477 Startup Experience
+478 Strategy
+481 Recruitment and Selection
+482 Performance Management
+483 Introduction to Employment Law For Business
+484 Employment Systems
+485 Negotiations and Conflict Management
+486 Leadership
+496 Professional Development - Summit
+498 Directed Studies
+510 Financial and Managerial Accounting
+511 Business Ethics
+552 Managerial Economics
+553 Business Analytics
+555 Managerial Finance
+556 Marketing Management
+557 Managing People and Organizations
+561 Special Topics
+579 Professional Development
+600 Orientation
+605 Applied Project in Business in the Americas
+607 Strategy
+608 Indigenous Business Leadership and Organization
+626 Financial and Managerial Accounting for Indigenous Leaders
+641 Cross Cultural Management
+642 International Competitive Strategy
+650 Business Ethics
+657 Marketing Strategies for Indigenous Leadership
+660 Special Topics in Business Administration
+661 Special Topics in Business Administration
+662 Negotiations
+670 Accounting for Decision Making
+679 Business Strategy for Indigenous Leaders
+681 Leadership and Teamwork
+692 Indigenous Sustainability
+694 Brave Conversations for Building Trust and Collaboration I
+698 Directed Studies in Business Administration
+700 Orientation
+702 Marketing Management
+704 Leadership and Teamwork
+705 Financial/Managerial Accounting
+706 Business Analytics
+707 Business Ethics
+708 Financial Management
+712 Managing a Globalized Workforce
+715 Operations Management
+716 Sustainability
+719 Managing People and Organizations
+727 MBA Internship
+730 Indigenous Business Environments in Community
+736 Leading Self & Others
+737 Business Strategy
+738 Operations Management
+750 Managing Technological Innovation
+754 Marketing Tech-based Products and Services
+757 Negotiations
+761 Leadership for the Technology Driven Enterprise
+764 Financing the Organization
+766 Financial and Managerial Accounting
+774 Special Topics
+800 Finance Foundations
+803 Financial Data Analytics
+806 Principles of Finance
+816 Strategic Asset Allocation
+826 Portfolio Theory and Asset Pricing
+827 Principles of Investments
+828 Business Strategy, Ethics and The Regulatory Environment
+831 Analyzing and Visualizing Business Data
+839 Applied Project
+845 Advanced Applied Project I
+876 Special Topics
+880 Student Investment Advisory Service Practicum
+881 Principles of Fund Management
+891 Theory of Financial Markets
+965 Business Econometrics II
+967 Asset Pricing
+971 Qualitative Methods and Analysis
+972 Macro Theories in Management Research
+980 Theory Development in Business Administration
+982 Dissertation Development  Workshop
+983 Directed Studies I
+984 Directed Studies II
+985 Directed Studies III
+988 Selected Topics II
+990 Academic Writing and Research Development
+992 PhD Thesis
+993 Thesis Proposal
+104 Music Fundamentals
+117 Modern Art History
+122 Dance Training and Movement Systems I
+127 History of Dance: From the 20th Century to the Present
+129 Movement Fundamentals
+130 Fundamentals of Film
+135 Introduction to Cinema
+136 The History and Aesthetics of Cinema I
+140 Contexts in Creative Music and Sound Practice
+142 Music Appreciation in the 21st Century
+143 Sound Fundamentals I
+145 Creative Sound Studio I
+149 Sound
+150 Introduction to Acting
+151 Live Acts I
+160 Introductory Studio in Visual Art I
+170 Introduction to Production Technology
+174 Transforming Objects
+186 Art and the Moving Image
+210w Art and Visual Culture: Materials, Forms, Histories
+220 Dance Training and Movement Systems III
+230 Filmmaking II
+233 The Techniques of Film
+235 Experimental Film and Video
+240 Soundbox I
+245 Creative Sound Studio III
+247 Creative Electronics Lab I
+251 Live Acts III
+253 Co-Lab
+254 Body I
+257w Context I
+260 Studio in Visual Art I
+262 Methods and Concepts: Drawing-based Practices
+269 Methods and Concepts: Selected Topics
+270 Production Ensemble I
+276 STT-Video Projection for Performance and Installation
+285 Interdisciplinary Studio - Composition/Collaboration
+304 Professional Practices in the Contemporary Arts
+306 Practicum in Contemporary Arts I
+307 Internship in Contemporary Arts I
+312w Selected Topics in Contemporary Arts
+314 Readings in the History of Art, Performance and Cinema
+320 Dance Training and Movement Systems V
+322 Intermediate Ballet I
+324 Approaches to Composition
+326 Repertory I
+327 Repertory II
+334 Selected Topics in Film and Video Production
+338w Screenwriting II
+341 Music and Culture
+345 Creative Sound Studio V
+354 Social I
+360 Studio in Visual Art III
+362 Methods and Concepts: Drawing-based Practices
+366 Seminar in Visual Art I
+369 Methods and Concepts: Selected Topics
+370 Production Ensemble III
+374 Stage Lighting
+381 Thriving as a Cultural Entrepreneur
+386 Film Music: An Overview of the Relationship between Music and Moving Pictures
+390 Filmmaking IV
+400 Directed Studies (Studio)
+401 Directed Studies (Theory/History)
+406 Practicum in Contemporary Arts II
+407 Internship in Contemporary Arts II
+412w Advanced Seminar in Art and Performance Studies
+420 Dance Training and Movement Systems VII
+424 Making/Artistic Research
+427 Advanced Ballet I
+430 Filmmaking VI
+440 Soundbox II
+445 Senior Project I
+449 Installation/Sound Art Lab
+451 Creative Research
+460 Studio in Visual Art V
+811 Interdisciplinary Graduate Seminar I
+812 Interdisciplinary Graduate Seminar II
+813 Interdisciplinary Graduate Studio
+821 Research Methods in Contemporary Arts
+822 Research Colloquium in Contemporary Arts
+826 New Approaches in Performance Studies
+827 Practicum in Contemporary Arts
+829 Extended Essay in Contemporary Arts
+830 Internship in Contemporary Arts
+885 Studio in Contemporary Arts II
+889 Directed Study in Contemporary Arts
+890 Professional Practices Seminar I
+892 PhD Qualifying Examinations
+895 PhD Thesis Prospectus
+898 Master of Fine Arts Graduating Project
+899 PhD Thesis
+302 Environment Practicum I
+303 Environment Practicum II
+402 Environment Practicum III
+403 Environment Practicum IV
+404 Environment Practicum V
+690 Co-op I
+691 Co-op II
+110 Introductory Chemistry
+111 Introductory Chemistry and Laboratory
+120 General Chemistry I
+121 General Chemistry and Laboratory I
+122 General Chemistry II
+125 General Chemistry Laboratory I
+126 General Chemistry Laboratory II
+180 The Chemistry of Life
+210 Introduction to Analytical Chemistry
+216 Introduction to Analytical Chemistry Laboratory
+230 Inorganic Chemistry
+236w Inorganic Chemistry Laboratory
+260 Atoms, Molecules, Spectroscopy
+281 Organic Chemistry and Laboratory I
+282 Organic Chemistry II
+283 Organic Chemistry IIb
+284 Organic Chemistry IIb
+285 Organic Chemistry Laboratory I
+286 Organic Chemistry Laboratory II
+296 Introduction to Experiential Undergraduate Research
+306 Practicum I
+307 Practicum II
+316 Introductory Instrumental Analysis
+340 Materials Chemistry
+364 Quantum Chemistry
+366w Physical Chemistry Laboratory II
+380 Chemical and Instrumental Methods of Identification of Organic Compounds
+396 Experiential Undergraduate Research
+406 Practicum III
+407 Practicum IV
+408 Practicum V
+419 Special Topics in Analytical Chemistry
+439 Special Topics in Inorganic Chemistry
+452 Bio-organic Chemistry
+459 Special Topics in Organic Chemistry
+481 Undergraduate Research
+482 Directed Study in Advanced Topics of Chemistry
+483 Undergraduate Research II
+484 Two-Semester Undergraduate Research in Chemistry
+752 Bio-organic Chemistry
+759 Special Topics in Organic Chemistry
+801 Student Seminar
+803 Lectures in Chemistry Research
+819 Special Topics in Analytical Chemistry
+839 Special Topics in Inorganic Chemistry
+842 Special Topics in Radiochemistry
+849 Special Topics in Materials Chemistry
+898 MSc Thesis
+899 PhD Thesis
+100 Mandarin Chinese I
+110 Mandarin Chinese II
+190 Heritage Mandarin Chinese I
+200 Mandarin Chinese III
+290 Heritage Mandarin Chinese III
+390 Advanced Chinese Reading
+460 Text and Screen: Chinese Fiction and Film
+110 Introduction to Communication Studies
+120w Creativity and Communication Across Media
+130 Communication and Social Change
+201w Empirical Communication Research Methods
+202 Design and Method in Qualitative Communication Research
+210 Media History
+215 Media and Identity
+221 Media and Popular Cultures
+235 Digital Democracies
+240 The Political Economy of Communication
+253w Introduction to Information Technology: The New Media
+258 History of Sound in Media
+304w Communication in Everyday Life
+311 Topics in Communication and Social Justice
+313 Topics in Data and Society
+314 Topics in Media Production and Aesthetics
+315 Topics in Media, Difference, and Intersectional Identities
+316 Topics in Popular Cultures and Public Communication
+353 Topics in Science, Technology and Society
+362 Evaluation Methods for Applied Communication Research
+395 Communication Practicum I
+396 Communication Practicum II
+410 Media and Ideology
+425 Applied Communication for Social Issues
+426 Video Design for Social Communication
+443 Comparative Asian Media Systems
+446 Communication, Science and Technology
+452 Race and the Media
+453 Issues in the Information Society
+455w Feminist Approaches to Science and Technology
+461 Field Placement in Dialogue
+479 Directed Study
+480 Directed Study
+486 Special Topics in Communication
+487 Special Topics in Communication
+488 Selected Topics in Communication
+489 Field Placement in Communication
+494 Communication Practicum III
+495 Communication Practicum IV
+496 Communication Practicum V
+497 Honours Research Proposal
+498 Honours Research Project
+800 Contemporary Approaches in Communication Studies
+815 Social Construction of Communication Technologies
+824 Colonialism, Culture and Identity
+840 Political Economy of Communications
+848 Communication and Global Social Justice
+850 Directed Readings and Research
+851 Directed Studies
+880 Directed Readings and Research
+881 Research Practicum
+891 Co-op I
+892 Co-op II
+893 MA Project
+895 Comprehensive Examination
+896 MA Extended Essays
+897 MA Project
+898 MA Thesis
+899 PhD Thesis
+105w Social Issues and Communication Strategies in Computing Science
+120 Introduction to Computing Science and Programming I
+125 Introduction to Computing Science and Programming II
+130 Introduction to Computer Programming I
+201 Systems Programming
+210 Probability and Computing
+213 Object Oriented Design in Java
+225 Data Structures and Programming
+263 Introduction to Human-Centered Computing
+272 Web I - Client-side Development
+276 Introduction to Software Engineering
+295 Introduction to Computer Systems
+307 Data Structures and Algorithms
+310 Introduction to Artificial Intelligence
+318 Special Topics in Computing Science
+340 Biomedical Computing
+353 Computational Data Science
+354 Database Systems I
+361 Introduction to Visual Computing
+362 Mobile Applications Programming and Design
+365 Multimedia Systems
+371 Data Communications and Networking
+373 Software Development Methods
+376w Professional Responsibility and Technical Writing
+383 Comparative Programming Languages
+405 Design and Analysis of Computing Algorithms
+409 Special Topics in Theoretical Computing Science
+410 Machine Learning
+412 Computer Vision
+415 Special Research Projects
+416 Special Research Projects
+417 Intelligent Systems
+426 Practicum I
+427 Practicum II
+428 Practicum III
+429 Practicum IV
+430 Practicum V
+431 Distributed Systems
+441 Computational Biology
+450 Computer Architecture
+454 Database Systems II
+459 Special Topics in Database Systems
+464 Geometric Modelling in Computer Graphics
+469 Special Topics in Computer Graphics
+473 Software Testing, Reliability and Security
+475 Requirements Engineering
+477 Introduction to Formal Verification
+479 Special Topics in Computing Systems
+489 Special Topics in Programming Languages
+494 Software Systems Program Capstone Project I
+495 Software Systems Capstone Project II
+496 Directed Studies
+497 Dual Degree Program Capstone Project
+498 Honours Research Project
+626 Graduate Co-op I
+627 Graduate Co-op II
+629 Graduate Project
+631 Industrial Internship
+705 Design and Analysis of Algorithms
+711 Bioinformatics Algorithms
+713 Natural Language Processing
+726 Machine Learning
+729 Reinforcement Learning
+732 Big Data Lab I
+741 Data Mining
+742 Visual Computing Lab I
+750 Computer Architecture
+762 Computer Vision
+764 Geometric Modelling in Computer Graphics
+766 Computer Animation and Simulation
+777 Formal Verification
+782 Cybersecurity Lab I
+786 Cloud and Network Security
+789 Applied Cryptography
+827 Intelligent Systems
+863 Advanced Topics in Human-Computer Interaction
+889 Special Topics in Interdisciplinary Computing
+894 Directed Reading
+895 Master Program Extended Essay
+896 MSc Course Option Portfolio
+897 MSc Project
+898 MSc Thesis
+899 PhD Thesis
+980 Special Topics in Computing Science
+981 Special Topics in Theoretical Computing Science
+982 Special Topics in Networks and Systems
+983 Special Topics in Artificial Intelligence
+985 Special Topics in Graphics, HCI, Visualization, Vision, Multimedia
+100 Exploring the Mind
+110 Learning in Everyday Life: The Art and Science of Hacking your Brain
+200 Foundations in Cognitive Science
+310 Consciousness
+315 Formal Methods
+101 Introduction to Criminology
+103 Psychological Explanations of Criminal and Deviant Behavior
+104 Sociological Explanations of Criminal and Deviant Behavior
+131 Introduction to the Criminal Justice System - A Total System Approach
+135 Introduction to Canadian Law and Legal Institutions: A Criminal Justice Perspective
+210 Law, Youth and Young Offenders
+220 Research Methods in Criminology
+230 Criminal Law
+241 Introduction to Corrections
+251 Introduction to Policing
+300w Current Theories and Perspectives in Criminology
+303 Historical Reactions to Crime and Deviance
+304 Women and Criminal Justice
+315 Restorative Justice
+317 Sex, Work, and the Law
+318 Special Topics in Criminology
+320 Quantitative Research Methods in Criminology
+321 Qualitative Research Methods in Criminology
+330 Criminal Procedure and Evidence
+332 Sociology of Law
+335 Human Rights and Civil Liberties
+343 Correctional Practice
+344 Sentencing: Theory, Law and Practice
+352 Environmental Criminology: Theory and Practice
+355 The Forensic Sciences
+356 The Forensic Sciences II
+357 Forensic Anatomy
+370 Directed Readings
+380 Introduction to Cybercrime
+405 Violence and Aggression
+410 Decision-making in Criminal Justice
+417 Current Issues in Criminology and Criminal Justice
+419 Aboriginal/Indigenous Justice
+433 Communities and Crime
+438 Wrongful Convictions and Other Miscarriages of Justice
+441 Preventing Crime and Antisocial Behaviour: Designing & Evaluating Programs
+451 Advanced Techniques in Forensic Science
+454 Criminal Profiling
+470 Directed Studies
+480 Computer Forensics and Cybercrime
+486 Field Placement - Agency - Part Time
+487 Field Placement - Agency - Full Time
+488 Field Placement - Academic - Part Time
+489 Field Placement - Academic - Full Time
+490 Honours Thesis I
+491 Current Theory and Research in Criminology: Advanced Topics
+800 Criminological Theory I
+813 Policing
+818 Contemporary Issues in Forensic Science
+860 Research Methods I: Research Design
+870 Directed Readings
+871 Selected Topics
+890 PhD Thesis Prospectus
+897 Comprehensive Exam
+898 MA Thesis
+899 PhD Thesis
+180 Undergraduate Seminar in Data Science
+390w Semester: Dialogue
+391w Semester: Seminar
+392w Semester: Final Project
+393 Semester In (Dialogue Component)
+394 Semester In (Seminar Component)
+500 Foundations of Digital Media
+502 Improvisation for Collaboration
+503 Game Design and Gamification
+520 Projects I: Building Virtual Worlds
+530 Internship
+540 Special Topics in Digital Media
+101 Dynamic Earth
+103 The Rise and Fall of the Dinosaurs
+202 Introduction to Mineralogy
+206 Field Geology I
+207 Introduction to Applied Geophysics
+209w Environmental Geoscience
+301 Igneous Petrology
+302 Sedimentary Petrology
+304 Hydrogeology
+309 Global Tectonics
+310w Paleontology
+315w Geochemistry of Natural Waters
+401 Mineral Deposits
+402 Sedimentology
+408 Regional Geology of Western Canada
+413 Engineering Geology and Resource Geotechnics
+493 Directed Readings
+499 Honours Thesis
+600 Introduction to Graduate Studies
+601 Advanced Groundwater Geochemistry
+611 Sedimentology
+624 Geology of the Canadian Cordillera
+629 Advanced Engineering Geology
+699 Research in Geoscience
+704 Special Topics
+711 Directed Readings
+810 MSc Thesis Proposal
+898 MSc Thesis
+901 PhD Research Seminar
+910 PhD Candidacy Examination
+998 PhD Thesis
+102 The World Economy
+103 Principles of Microeconomics
+105 Principles of Macroeconomics
+113 Introduction to Microeconomics
+115 Introduction to Macroeconomics
+201 Microeconomic Theory I: Competitive Behavior
+220w Communication in Economics
+260 Environmental Economics
+291 Macroeconomic Policy
+302 Microeconomic Theory II: Strategic Behavior
+305 Intermediate Macroeconomic Theory
+325 Industrial Organization
+333 Statistical Analysis of Economic Data
+334 Data Visualization and Economic Analysis
+342 International Trade
+345 International Finance
+355w Economic Development
+383 Selected Topics in Economics
+392 Public Economics: Role of Government
+402 Advanced Microeconomic Theory
+410 Seminar in Monetary Theory
+435 Econometric Methods
+446 Seminar in International Finance
+453 Seminar in the Economics of Education
+455w Topics in Economic Development
+460 Seminar in Environmental Economics
+482 Selected Topics in Economics
+494 Honours Research Proposal
+750 Co-op I
+751 Co-op II
+752 Co-op III
+798 Introduction to Mathematical Economics
+802 Microeconomic Theory I
+804 Advanced Topics in Microeconomic Theory
+808 Macroeconomic Theory
+815 Financial Economics
+818 Advanced Topics in Finance
+831 Mathematical Economics
+835 Econometrics
+837 Econometrics I
+899 MA Research Paper
+900 PhD Field Paper
+913 Selected Topics in Economics
+921 Directed Readings
+987 Field Comprehensive Examination
+990 PhD Thesis
+527 Special Topics
+543 Advanced Field Studies in Curriculum Development I
+544 Advanced Field Studies in Curriculum Development I
+100w Selected Questions and Issues in Education
+199 Foundations of Personal Agency: Finding Voice and Place in Academia
+211 Mathematical Experience I: Numbers and Beyond
+220 Introduction to Educational Psychology
+222 Research Methods in Educational Psychology
+230 Introduction to Philosophy of Education
+240 Social Issues in Education
+250 Studies in the History of Education in the Western World
+252 Introduction to Reflective Practice
+315 Individual and Developmental Differences in Language Acquisition
+320 Instructional Psychology
+322 The Social Lives of School Children
+323 Introduction to Counselling Theories
+324 Foundations of Multicultural Counselling
+326 Creating Positive Learning Communities
+327 Self, Psychology and Education
+328 Career Education and Career Counselling
+341 Literacy, Education and Culture
+352w Building on Reflective Practice
+355 Theatre in an Educational Context
+358 Foundations of Educational Technology
+370 International and Intercultural Education
+371w School Health Education
+376 Introduction to Educational Leadership
+382 Diversity in Education: Theories, Policies, Practices
+388 Special Topics
+400 Foundations of Education and Schooling
+402w Studies of Educational Theory and Practice
+403 Studies in Teaching and Learning
+404 Coursework Semester
+405 Teaching Semester
+406 Supervised Observation and Teaching
+407 Professional Growth Portfolio: Developing a Solid Foundation
+410 Linguistic and Professional Identities of Bi/plurilingual Teachers of French
+412w Designs for Learning: Secondary Language Arts
+414 Designs for Learning: Secondary Social Studies
+422 Learning Disabilities
+423 Helping Relationships
+426 Teaching Children and Youth with Special Needs
+437 Ethical Issues in Education
+445 Legal Context of Teaching
+464 Early Childhood Education
+465 Children's Literature
+466 Early Childhood Education: Curriculum and Instruction
+469 Music Education as Thinking in Sound
+471 Curriculum Development: Theory and Practice
+472 Designs for Learning: Elementary Language Arts
+474 Designs for Learning: Elementary Social Studies
+475 Designs for Learning: Elementary Mathematics
+702 Directed Readings
+703 Directed Readings
+704 Directed Readings
+705 Directed Readings
+710 Special Topics
+718 Landscapes of Practitioner Inquiry
+799 Supervised Counselling Clinic I
+807 Inquiry into Practice
+811 Fieldwork I
+816 Developing Educational Programs and Practices for Diverse Educational Settings
+818 Leadership Studies
+823 Curriculum and Instruction in an Individual Teaching Speciality
+834 Multilingualism, Language Acquisition, and Language Learning in the School Context
+835 Graduate Study in Second Language Education
+837 Seminar in Education, Equity, and Social Theories
+843 Embodiment and Curriculum Inquiry
+858 Intercultural Perspectives and Practices in Francophone School Contexts
+862 Individual Assessment in Counselling
+866 Qualitative Methods in Educational Research
+870 Theories of Counselling
+873 Career Counselling
+883 MEd Comprehensive Examination
+885 MEd Extended Essays
+886 MA Thesis
+890 Educational Media as Foundations of Curriculum
+893 Organizational and Social Aspects of Learning Technology Design
+895 Conceptions of Numeracy
+898 Master's Thesis
+899 Doctoral Thesis
+901a Seminar in the History of Educational Theory A
+901b Seminar in the History of Educational Theory B
+904 Fieldwork III
+910 Directed Readings
+911 Colloquium in Curriculum Theory (I)
+921 Seminar in Philosophy and Educational Theory
+923 Critical and Sociocultural Approaches to Educational Research
+925 Multiliteracies and Multimodalities
+926 Ethnographic and Multimodal Approaches to Educational Research
+928 Doctoral Seminar B
+932 Doctoral Seminar II in Educational Technology and Learning Design
+942 Contemporary Theories and Methodologies in Mathematics Education
+943 Arts-Based Inquiry in Educational Research
+971 Advanced Topics in Educational Psychology
+983 Doctoral Comprehensive Examination
+984 Qualifying Examination
+111w Literary Classics in English
+113w Literature and Performance
+114w Language and Purpose
+199w Writing to Persuade
+202 The Environmental Imagination
+210 Reading and Writing Identities
+214 History and Principles of Rhetoric
+216 History and Principles of Literary Criticism
+272 Creative Reading
+304 The Medieval World
+320 The Long Eighteenth Century and the Romantic Era
+355 Canadian Literatures
+360 Popular Writing by Indigenous Authors
+362 Transnational Literatures in English
+372 Creative Writing I: Poetry
+375 Studies in Rhetoric
+376 Special Studies
+383 Studies in Popular Literature and Culture
+385 Across Time, Across Space
+414w Seminar in Literature and History
+417w Seminar in Gender, Sexuality and Literature
+418w Seminar in Critical Theory
+433w Seminar in British Literatures
+437w Seminar in American Literatures
+470w Seminar in the English Language
+490 Directed Studies A
+491 Directed Studies B
+493w Seminar in Special Topics
+494 Honors Research and Methods Seminar
+496 Honors Graduating Essay
+811 Studies in Theory II
+820 Studies in Print Culture Theory
+832 Studies in Eighteenth-Century Literature
+853 Studies in Postcolonial Literature
+880 Pro-seminar I
+882 MA Project
+891 MA Paper/Project
+892 PhD Field Exam One
+893 PhD Field Exam Two
+894 PhD Thesis Prospectus
+899 PhD Thesis
+100w Engineering, Science and Society
+105w Process, Form, and Convention in Professional Genres
+120 Introduction to Electronics Laboratory Instruments Operation and Measurement Techniques
+151 Introduction to Software Development for Engineers
+194 Optional Job Practicum
+195 Industrial Internship I
+196 Special Internship I
+204 Graphical Communication for Engineering
+220 Electric Circuits I
+225 Microelectronics I
+251 Software Design and Analysis for Engineers
+252 Fundamentals of Digital Logic & Design
+295 Industrial Internship II
+296 Special Internship II
+316 Engineering Electromagnetics I
+324 Electronic Devices
+350 Digital Systems Design
+351 Embedded and Real Time System Software
+370 Biomedical Engineering Directions
+380 Linear Systems
+385 Statics and Strength of Materials
+395 Industrial Internship III
+396 Special Internship III
+400 Directed Studies in Engineering Science
+403 Directed Studies in Engineering Science
+440 Capstone B: Engineering Design Project
+453 Programming for Heterogeneous Computing Systems
+477 Biomedical Image Acquisition
+498 Engineering Science Thesis Proposal
+499 Engineering Science Undergraduate Thesis
+704 Industrial Internship
+801 Linear Systems Theory
+802 Stochastic Systems
+835 Communication Networks
+870 MEng Course Option Portfolio
+880 PhD Qualifying Examination
+891 Directed Studies I
+892 Directed Studies II
+894 Special Topics II
+895 Special Topics III
+896 MEng Project (Completion)
+897 MEng Project
+898 MASc Thesis
+899 PhD Thesis
