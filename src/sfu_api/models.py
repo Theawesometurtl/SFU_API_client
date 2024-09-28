@@ -24,25 +24,6 @@ class BaseModel(PydanticBaseModel):
     )
 
 
-class NamedTextValue(BaseModel):
-    text: str
-    value: str
-    name: str
-
-    @field_validator("name", mode="before")
-    @classmethod
-    def validate_name(cls, v: str) -> str:
-        if v == "title":
-            return "name"
-        return v
-
-
-class Department(NamedTextValue): ...
-
-
-class CourseNumber(NamedTextValue): ...  # name is title
-
-
 class SectionCode(StrEnum):
     """
     Enum class representing various section codes for university classes.
@@ -125,6 +106,9 @@ class CourseSection(BaseModel):
     section_code: SectionCode
     # associatedClass
     associated_class: int
+
+    def __str__(self) -> str:
+        return self.value
 
 
 class Info(BaseModel):
@@ -240,7 +224,6 @@ class Schedule(BaseModel):
     @classmethod
     def parse_datetime(cls, v: str) -> datetime:
         v = v.replace("PDT", "Pacific Daylight Time")
-        print(v)
         return datetime.strptime(v, DATE_FORMAT)
 
     @field_validator("start_time", "end_time", mode="before")
@@ -323,6 +306,9 @@ class TextValue(BaseModel):
     def from_str(cls, value: str) -> Self:
         return cls(text=value, value=value)
 
+    def __str__(self) -> EmailStr:
+        return self.value
+
 
 class Year(TextValue): ...
 
@@ -331,6 +317,28 @@ class Term(TextValue):
     @classmethod
     def from_str(cls, value: str) -> Self:
         return cls(text=value.upper(), value=value.lower())
+
+
+class NamedTextValue(BaseModel):
+    text: str
+    value: LowerCaseStr
+    name: str
+
+    @field_validator("name", mode="before")
+    @classmethod
+    def validate_name(cls, v: str) -> str:
+        if v == "title":
+            return "name"
+        return v
+
+    def __str__(self) -> str:
+        return self.value
+
+
+class Department(NamedTextValue): ...
+
+
+class CourseNumber(NamedTextValue): ...  # name is title
 
 
 class Years(RootModel[list[Year]]):
