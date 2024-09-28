@@ -15,7 +15,6 @@ from pydantic import (
     field_validator,
 )
 from pydantic.alias_generators import to_camel
-from pydantic_extra_types.phone_numbers import PhoneNumber
 
 
 class BaseModel(PydanticBaseModel):
@@ -82,9 +81,9 @@ class CourseSection(BaseModel):
     text: str
     value: str
     # title
-    name: str
+    name: Annotated[str | None, Field(alias="title")] = None
     # classType (e=true, n=false)
-    enrollment_section: Annotated[bool, Field(alias="classType")]
+    enrollment_section: Annotated[bool, Field(alias="classType")] | None = None
 
     @field_validator("enrollment_section", mode="plain")
     @classmethod
@@ -103,7 +102,7 @@ class CourseSection(BaseModel):
         return "e" if v else "n"
 
     # sectionCode
-    section_code: SectionCode
+    section_code: SectionCode | None = None
     # associatedClass
     associated_class: int
 
@@ -182,7 +181,7 @@ class Instructor(BaseModel):
     common_name: str
     first_name: str
     last_name: str
-    phone: PhoneNumber | None = None
+    phone: str | None = None
     role_code: str
     name: str
     office_hours: str | None = None
@@ -223,7 +222,9 @@ class Schedule(BaseModel):
     @field_validator("start_date", "end_date", mode="plain")
     @classmethod
     def parse_datetime(cls, v: str) -> datetime:
-        v = v.replace("PDT", "Pacific Daylight Time")
+        v = v.replace("PDT", "Pacific Daylight Time").replace(
+            "PST", "Pacific Standard Time"
+        )
         return datetime.strptime(v, DATE_FORMAT)
 
     @field_validator("start_time", "end_time", mode="before")
@@ -324,13 +325,6 @@ class NamedTextValue(BaseModel):
     value: LowerCaseStr
     name: str
 
-    @field_validator("name", mode="before")
-    @classmethod
-    def validate_name(cls, v: str) -> str:
-        if v == "title":
-            return "name"
-        return v
-
     def __str__(self) -> str:
         return self.value
 
@@ -338,7 +332,8 @@ class NamedTextValue(BaseModel):
 class Department(NamedTextValue): ...
 
 
-class CourseNumber(NamedTextValue): ...  # name is title
+class CourseNumber(NamedTextValue):  # name is title
+    name: Annotated[str, Field(alias="title")]
 
 
 class Years(RootModel[list[Year]]):
