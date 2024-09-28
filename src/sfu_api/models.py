@@ -396,7 +396,7 @@ class CourseOutline(BaseModel):
     grades: list[Grade] | None = None
     instructor: list[Instructor] | None = None
     # courseSchedule
-    course_schedule: list[Schedule]
+    course_schedule: list[Schedule] | None = None
     # examSchedule
     exam_schedule: list[Schedule] | None = None
     # requiredText
