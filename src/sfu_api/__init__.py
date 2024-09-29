@@ -10,6 +10,7 @@ from sfu_api.models import (
     CourseSections,
     Department,
     Departments,
+    LowerCaseStr,
     Term,
     Terms,
     Year,
@@ -26,20 +27,43 @@ class Client:
         self.client = httpx.Client()
 
     def get_years(self) -> Years:
-        years_json = self.client.get(BASE_URL).json()
+        response = self.client.get(BASE_URL)
+        if response.status_code != 200:
+            raise Exception("Failed to fetch years from SFU API")
+        years_json = response.json()
         return Years(years_json)
 
-    def get_terms(self, year: Year | str) -> Terms:
+    def get_terms(self, year: Year | LowerCaseStr) -> Terms:
+        if isinstance(year, Year):
+            year = year.value
+
         terms_json = self.client.get(f"{BASE_URL}{year}").json()
         return Terms(terms_json)
 
-    def get_departments(self, year: Year | str, term: Term | str) -> Departments:
+    def get_departments(
+        self, year: Year | LowerCaseStr, term: Term | LowerCaseStr
+    ) -> Departments:
+        if isinstance(year, Year):
+            year = year.value
+        if isinstance(term, Term):
+            term = term.value
+
         departments_json = self.client.get(f"{BASE_URL}{year}/{term}").json()
         return Departments(departments_json)
 
     def get_course_numbers(
-        self, year: Year | str, term: Term | str, department: Department | str
+        self,
+        year: Year | LowerCaseStr,
+        term: Term | LowerCaseStr,
+        department: Department | LowerCaseStr,
     ) -> CourseNumbers:
+        if isinstance(year, Year):
+            year = year.value
+        if isinstance(term, Term):
+            term = term.value
+        if isinstance(department, Department):
+            department = department.value
+
         course_numbers_json = self.client.get(
             f"{BASE_URL}{year}/{term}/{department}"
         ).json()
@@ -47,11 +71,20 @@ class Client:
 
     def get_course_sections(
         self,
-        year: Year | str,
-        term: Term | str,
-        department: Department | str,
-        course_number: CourseNumber | str,
+        year: Year | LowerCaseStr,
+        term: Term | LowerCaseStr,
+        department: Department | LowerCaseStr,
+        course_number: CourseNumber | LowerCaseStr,
     ) -> CourseSections:
+        if isinstance(year, Year):
+            year = year.value
+        if isinstance(term, Term):
+            term = term.value
+        if isinstance(department, Department):
+            department = department.value
+        if isinstance(course_number, CourseNumber):
+            course_number = course_number.value
+
         course_section_json = self.client.get(
             f"{BASE_URL}{year}/{term}/{department}/{course_number}"
         ).json()
@@ -59,12 +92,23 @@ class Client:
 
     def get_course_outline(
         self,
-        year: Year | str,
-        term: Term | str,
-        department: Department | str,
-        course_number: CourseNumber | str,
-        course_section: CourseSection | str,
+        year: Year | LowerCaseStr,
+        term: Term | LowerCaseStr,
+        department: Department | LowerCaseStr,
+        course_number: CourseNumber | LowerCaseStr,
+        course_section: CourseSection | LowerCaseStr,
     ) -> CourseOutline:
+        if isinstance(year, Year):
+            year = year.value
+        if isinstance(term, Term):
+            term = term.value
+        if isinstance(department, Department):
+            department = department.value
+        if isinstance(course_number, CourseNumber):
+            course_number = course_number.value
+        if isinstance(course_section, CourseSection):
+            course_section = course_section.value
+
         course_outline_json = self.client.get(
             f"{BASE_URL}{year}/{term}/{department}/{course_number}/{course_section}"
         ).json()

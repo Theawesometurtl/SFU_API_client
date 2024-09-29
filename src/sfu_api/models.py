@@ -83,7 +83,7 @@ class CourseSection(BaseModel):
     # title
     name: Annotated[str | None, Field(alias="title")] = None
     # classType (e=true, n=false)
-    enrollment_section: Annotated[bool, Field(alias="classType")] | None = None
+    enrollment_section: Annotated[bool | None, Field(alias="classType")] = None
 
     @field_validator("enrollment_section", mode="plain")
     @classmethod
@@ -107,7 +107,9 @@ class CourseSection(BaseModel):
     associated_class: int
 
     def __str__(self) -> str:
-        return self.value
+        if self.section_code is None:
+            return self.text
+        return f"{self.text} ({self.section_code})"
 
 
 class Info(BaseModel):
@@ -186,7 +188,15 @@ class Instructor(BaseModel):
     name: str
     office_hours: str | None = None
     office: str | None = None
-    email: EmailStr
+    email: EmailStr | None = None
+
+    @field_validator("email", mode="before")
+    @classmethod
+    def validate_email(cls, v: str) -> EmailStr | None:
+        if v == "":
+            return None
+
+        return v
 
 
 class Campus(StrEnum):
@@ -211,13 +221,13 @@ DATE_FORMAT = "%a %b %d %H:%M:%S %Z %Y"
 
 
 class Schedule(BaseModel):
-    start_time: time
-    start_date: datetime
-    end_time: time
-    end_date: datetime
+    start_time: time | None = None
+    start_date: datetime | None = None
+    end_time: time | None = None
+    end_date: datetime | None = None
     section_code: SectionCode
     is_exam: bool
-    days: list[Day]
+    days: list[Day] | None = None
 
     @field_validator("start_date", "end_date", mode="plain")
     @classmethod
@@ -236,7 +246,10 @@ class Schedule(BaseModel):
 
     @field_validator("days", mode="before")
     @classmethod
-    def validate_days(cls, v: str) -> list[Day]:
+    def validate_days(cls, v: str) -> list[Day] | None:
+        if v == "":
+            return None
+
         def str_to_day(day: str) -> Day:
             match day:
                 case "Mo":
@@ -280,7 +293,7 @@ class Schedule(BaseModel):
 
         return ", ".join(map(day_to_str, v))
 
-    campus: Campus
+    campus: Campus | None = None
 
 
 type HTMLStr = str
@@ -307,7 +320,7 @@ class TextValue(BaseModel):
     def from_str(cls, value: str) -> Self:
         return cls(text=value, value=value)
 
-    def __str__(self) -> EmailStr:
+    def __str__(self) -> LowerCaseStr:
         return self.value
 
 
@@ -325,7 +338,7 @@ class NamedTextValue(BaseModel):
     value: LowerCaseStr
     name: str
 
-    def __str__(self) -> str:
+    def __str__(self) -> LowerCaseStr:
         return self.value
 
 
